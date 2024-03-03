@@ -11,8 +11,8 @@ System.out.println("Hello World, This is Farzana");
 		2. non-primitive : Not defined by Java (class, array, object)
  */
 
-	int a = 10;
-	int b = 25;
+	int a = 30;
+	int b = 55;
 	int c = a + b;
 	System.out.println(c);
 	
