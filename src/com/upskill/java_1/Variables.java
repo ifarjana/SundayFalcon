@@ -11,7 +11,7 @@ public class Variables {
 	
 	String country = "USA";					//Instance OR global variables - Variables declared in Class Level, outside method
 	
-	static String region  =  "America";		// Static variables - variables belong to class and don't required creating object
+	static String region  =  "Nodth America";		// Static variables - variables belong to class and don't required creating object
 	
 	public static void main(String[] args) {
 		String city = "New York";			//Local variables - variables declared in methods
